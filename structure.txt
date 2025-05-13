@@ -1,0 +1,8 @@
+shopping-list-assistant/
++-- app.py
++-- database.py
++-- alice_handler.py
++-- telegram_bot.py
++-- config.py
++-- requirements.txt
+L-- README.md

@@ -1,0 +1,26 @@
+# Запуск Flask
+flask run --host=0.0.0.0 --port=5000
+
+# Запуск Telegram-бота
+python telegram_bot.py
+
+
+
+---
+
+## ? Как использовать
+
+1. Установите зависимости:
+   ```bash
+   pip install -r requirements.txt
+
+
+Создайте базу
+mkdir instance
+python -c "from database import init_db; init_db()"
+
+Запустите сервер:
+flask run --host=0.0.0.0 --port=5000
+
+Запустите Telegram-бота:
+python telegram_bot.py
