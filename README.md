@@ -1,4 +1,4 @@
-# alice-wuth-shopping-list
+# alice-with-shopping-list
 Shopping list with voice assistant
 
 # Голосовой помощник: Список покупок через Алису + Telegram
